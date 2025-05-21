@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
 
         <div className="text-center text-sm py-6 bg-gray-950 text-gray-400 mt-6">
-          &copy; 2025 UserApp. All rights reserved. Made with ❤️ by Abubakr.
+           2025 UserApp. All rights reserved. Made with  by Abubakr.
         </div>
       </footer>
     </div>
